@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 240" role="img" aria-labelledby="title desc">
+  <title id="title">designgood logo</title>
+  <desc id="desc">A coral compass spark inside a navy circle followed by the designgood wordmark.</desc>
+  <defs>
+    <linearGradient id="coral" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff8b6a"/>
+      <stop offset="1" stop-color="#e84f46"/>
+    </linearGradient>
+  </defs>
+  <rect width="920" height="240" rx="48" fill="#fffaf3"/>
+  <circle cx="122" cy="120" r="76" fill="#173f5f"/>
+  <path d="M122 55 139 103 187 120 139 137 122 185 105 137 57 120 105 103Z" fill="url(#coral)"/>
+  <circle cx="122" cy="120" r="12" fill="#fffaf3"/>
+  <path d="M122 73v22M122 145v22M75 120h22M147 120h22" stroke="#fffaf3" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+  <text x="230" y="145" fill="#173f5f" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="86" font-weight="750" letter-spacing="-4">designgood</text>
+  <circle cx="803" cy="76" r="8" fill="#2a9d8f"/>
+  <circle cx="832" cy="76" r="8" fill="#f2c14e"/>
+</svg>
