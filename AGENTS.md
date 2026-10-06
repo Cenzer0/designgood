@@ -1,5 +1,5 @@
 # Agent instructions
 
-For UI/UX implementation tasks, load and follow `SKILL.md`.
+For UI/UX tasks, read and follow `SKILL.md` before making changes. The skill is mandatory for design direction, states, responsive behavior, accessibility, motion, and final QA.
 
-The `designgood` skill applies to Codex and Antigravity-style agents. Treat it as a required design review before implementation and before final delivery.
+Do not report visual validation unless it was actually performed.

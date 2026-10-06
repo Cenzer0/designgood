@@ -1,20 +1,26 @@
 # designgood
 
-A distinctive UI/UX coding skill for building memorable, production-ready interfaces without generic AI aesthetics.
+A design-direction and UI engineering skill for Codex, Antigravity, and Claude Code. It helps agents create interfaces with a recognizable point of view instead of generic AI aesthetics.
 
-Compatible with Codex, Antigravity, and Claude Code.
+## What changed in 2.0
 
-## Install
+- Design direction engine with eight task-oriented visual directions.
+- Designgood brief required before implementation.
+- UX state matrix for loading, empty, error, success, disabled, and focus states.
+- Responsive behavior rules instead of breakpoint-only instructions.
+- Accessibility, trust, motion, and maintainability release gates.
+- A 16-point anti-generic quality score with a 13-point minimum.
+- Explicit output contract and honest QA reporting.
 
-Copy `SKILL.md` into your agent skills directory, or reference this repository from your agent configuration.
+## Compatibility
 
-- Codex: use `SKILL.md` as a project skill or place it in your configured skills directory.
-- Claude Code: copy `SKILL.md` to `.claude/skills/designgood/SKILL.md` or include the repository instructions in `CLAUDE.md`.
-- Antigravity: copy `SKILL.md` to `.agent/skills/designgood/SKILL.md` or reference it from `AGENTS.md`.
+- Codex: load `SKILL.md` as a project skill or from the configured skills directory.
+- Claude Code: use `CLAUDE.md` and `.claude/skills/designgood/SKILL.md`.
+- Antigravity: use `AGENTS.md` and `.agent/skills/designgood/SKILL.md`.
 
-## Principle
+## Usage
 
-Design with a point of view: define a visual thesis, create a small design system, make hierarchy obvious, and validate the result at real viewport sizes.
+Tell your coding agent to read `SKILL.md` before implementing or reviewing UI. For an existing project, ask it to inspect the stack first, write a designgood brief, then implement and score the result.
 
 ## License
 

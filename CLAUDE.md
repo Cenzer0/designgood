@@ -1,3 +1,3 @@
 # Claude Code instructions
 
-For interface work, read and follow `SKILL.md` before editing files. Apply the designgood workflow: establish a visual thesis, define semantic tokens, implement meaningful states, and perform responsive/accessibility QA.
+For UI/UX tasks, read and follow `SKILL.md` before editing files. Begin with a designgood brief, use semantic tokens, cover the UX state matrix, and run the quality gates before delivery. Report only QA that was actually performed.

@@ -1,3 +1,3 @@
 # designgood
 
-Use the repository-root `SKILL.md` as the canonical skill instructions for UI/UX implementation. Follow it before designing or coding interfaces.
+The canonical instructions are in the repository-root `SKILL.md`. Read and follow that file for every UI/UX implementation or review.

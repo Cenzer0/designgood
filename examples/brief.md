@@ -1,28 +1,29 @@
-# Example design brief
+# Example designgood brief
 
 ## Product
 
 A campus cybersecurity lab dashboard for students investigating simulated incidents.
 
+## Direction
+
+Instrument, supported by archive.
+
 ## Visual thesis
 
-A forensic workbench: dense but calm, inspired by evidence labels, terminal readouts, and annotated field notes.
+A calm forensic workbench inspired by evidence labels, terminal readouts, and annotated field notes.
 
-## Signature element
+## Signature
 
-An evidence timeline that uses colored confidence bands and expandable annotations instead of generic metric cards.
+An evidence timeline with confidence bands and expandable annotations instead of generic metric cards.
 
-## Interaction tone
+## Primary flow
 
-Quiet, precise, and reversible. Every destructive action requires an explicit confirmation.
+Open an active incident, inspect the timeline, verify evidence, and choose a reversible next investigation step.
 
-## Content hierarchy
+## Explicit non-goals
 
-1. Active incident and severity.
-2. Evidence timeline.
-3. Recommended next investigation step.
-4. Supporting metadata and audit trail.
+No decorative cyberpunk effects. No dense data wall that hides the recommended next action.
 
 ## States
 
-Loading skeleton, no active incident, partial telemetry, permission denied, resolved incident, keyboard focus, and reduced motion.
+Loading skeleton, no active incident, partial telemetry, permission denied, resolved incident, keyboard focus, reduced motion, and retry failure.
